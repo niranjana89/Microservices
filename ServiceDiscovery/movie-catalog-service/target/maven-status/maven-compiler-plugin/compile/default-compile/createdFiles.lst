@@ -1,0 +1,5 @@
+com\example\moviecatalog\model\Movie.class
+com\example\moviecatalog\MovieCatalogServiceApplication.class
+com\example\moviecatalog\model\CatalogItem.class
+com\example\moviecatalog\model\Rating.class
+com\example\moviecatalog\resources\MovieCatalogResource.class
